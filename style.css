@@ -1,19 +1,56 @@
-.container {
-    width: 1000px;
-    margin: auto;
+html{
+    text-align: center;
+    background-color: rgb(235, 232, 226);
+    font-family: monospace;
 }
 
-g.lines path {
-    fill: none;
-    stroke: rgba(120, 120, 120, 0.7);
-    stroke-width: 2px;
-    mix-blend-mode: overlay;
+h1{
+    padding-top: 10px;
+    font-size: 25px;
+    color: rgb(63, 100, 133)
 }
+
+h3{
+    color: rgb(63, 100, 133);
+    font-size: 12px;
+    font-weight:100;
+    margin-bottom: 0px;
+}
+
+a{
+    color:rgb(205, 89, 89);
+    text-decoration: none;
+}
+
+.tooltip{
+    position: absolute;
+    background-color: rgba(255, 251, 243, 0.8);
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    text-align: left;
+}
+
+.tooltip > p{
+    padding-top: 0px;
+    font-size: 13px;
+    margin: 2px;
+}
+
 
 svg#sankey rect {
-    fill: rgba(120, 120, 120, 0.7);
+    stroke:rgb(255, 255, 255);
+    stroke-width: 1px;
+    opacity: 0.9;
 }
+
+svg#sankey text {
+    font-family: monospace;
+    font-size: 12.5px;
+    fill: rgb(13, 30, 46);
+}
+
 svg#sankey path {
     fill: none;
-    stroke: rgba(120, 120, 120, 0.4);
 }
