@@ -1,12 +1,10 @@
 # Interactive Energy Flow Sankey Diagram Assignment
 
 ## Introduction:
-This assignment focuses on creating an interactive Sankey diagram that visualizes energy flows, allowing for mouse-hover interactivity to highlight specific paths and linked nodes.
-
-Students will learn how to implement D3.js for data visualization and interactivity related to energy flow representation.
+This assignment aims to create an interactive Sankey diagram illustrating energy flows with mouse-hover interactivity to emphasize specific paths and nodes. Students will leverage D3.js for data visualization, focusing on energy flow representation and interactivity.
 
 ## Dataset Description:
-The dataset provided represents energy flow data from various sources to their respective endpoints.
+The dataset provided encompasses energy flow data from diverse sources to their respective endpoints.
 
 ## To Start the Assignment:
 - Clone or download the provided folder.
@@ -19,27 +17,27 @@ The dataset provided represents energy flow data from various sources to their r
 ## Assignment Steps:
 ### Step 1: Setting Up the Basic Structure
 - Open `index.html` in the `template` folder.
-- Add necessary HTML structure and link the D3.js library.
+- Construct the necessary HTML structure and link the D3.js library.
 
-[Screenshot 1: template/index.html]
+[Include code snippets or screenshots related to setting up the structure]
 
 ### Step 2: Loading and Parsing the Dataset
-- Modify the JavaScript file to load and parse the provided dataset.
+- Refine the JavaScript file to load and parse the provided dataset.
 
-[Screenshot 2: Loading and parsing dataset]
+[Include code snippets or screenshots related to loading and parsing the dataset]
 
 ### Step 3: Creating the Initial Sankey Diagram
-- Implement the initial Sankey diagram based on the dataset structure.
+- Develop the initial Sankey diagram based on the dataset structure.
 
-[Screenshot 3: Initial Sankey diagram]
+[Include code snippets or screenshots showcasing the initial Sankey diagram]
 
 ### Step 4: Implementing Mouse-hover Interactivity
-- Add event listeners to enable mouse-hover interactivity to highlight paths and linked nodes.
+- Integrate event listeners to facilitate mouse-hover interactivity, highlighting paths and nodes.
 
 ### Step 5: Finalizing and Testing
-- Test the interactive features and ensure smooth functionality.
+- Validate and test the interactive features to ensure smooth functionality.
 
-[Screenshot 4: Completed/Working Assignment]
+[Include a screenshot of the completed/working assignment]
 
 ## References:
-- Screenshot files: images/screenshot1.png, images/screenshot2.png, images/screenshot3.png
+- Screenshots: images/screenshot1.png, images/screenshot2.png, images/screenshot3.png
