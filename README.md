@@ -33,6 +33,9 @@ The dataset provided encompasses energy flow data from diverse sources to their 
 
 ### Step 4: Implementing Mouse-hover Interactivity
 - Integrate event listeners to facilitate mouse-hover interactivity, highlighting paths and nodes.
+- Implement the tooltip functionality to display information on flow and value upon hovering.
+
+[Include code snippets or screenshots related to implementing tooltip functionality]
 
 ### Step 5: Finalizing and Testing
 - Validate and test the interactive features to ensure smooth functionality.
