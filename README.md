@@ -19,17 +19,15 @@ The dataset provided encompasses energy flow data from diverse sources to their 
 - Open `index.html` in the `template` folder.
 - Construct the necessary HTML structure and link the D3.js library.
 
-[Include code snippets or screenshots related to setting up the structure]
+
 
 ### Step 2: Loading and Parsing the Dataset
 - Refine the JavaScript file to load and parse the provided dataset.
 
-[Include code snippets or screenshots related to loading and parsing the dataset]
 
 ### Step 3: Creating the Initial Sankey Diagram
 - Develop the initial Sankey diagram based on the dataset structure.
-
-[Include code snippets or screenshots showcasing the initial Sankey diagram]
+![Sankey Diagram](images\Sankey_chart.png)
 
 ### Step 4: Implementing Mouse-hover Interactivity
 - Integrate event listeners to facilitate mouse-hover interactivity, highlighting paths and nodes.
