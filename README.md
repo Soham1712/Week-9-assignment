@@ -27,7 +27,7 @@ The dataset provided encompasses energy flow data from diverse sources to their 
 
 ### Step 3: Creating the Initial Sankey Diagram
 - Develop the initial Sankey diagram based on the dataset structure.
-![Sankey Diagram](images\Sankey_chart.png)
+![Sankey Diagram](\images\Sankey_chart.png)
 
 ### Step 4: Implementing Mouse-hover Interactivity
 - Integrate event listeners to facilitate mouse-hover interactivity, highlighting paths and nodes.
